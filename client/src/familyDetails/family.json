@@ -1,0 +1,461 @@
+{
+  "Naggi Chettiyar": {
+    "Obli Chettiyar ": {
+      "Annamalai Chettiyar (SINGLE)": {},
+      "Nagamma": {
+        "husbandName": "Palaniswamy Chettiyar",
+        "children": {}
+      },
+      "Ramasamy Chettiyar": {
+        "wifeName": "",
+        "children": {
+          "Nagaraj Chettiyar": {
+            "wifeName": "Sulochana",
+            "children": {
+              "Nagamani": {
+                "Rajagopal": {
+                  "wifeName": "Girija",
+                  "children": {
+                    "Balaji": {}
+                  }
+                }
+              },
+              "Obli": {
+                "Naga Nandhini": {
+                  "husbandName": "Obli Selvan",
+                  "children": {}
+                },
+                "Ranaganathan": {
+                  "wifeName": "Indira Priyadharsini",
+                  "children": {
+                    "Naga Ragav Rishit": {}
+                  }
+                }
+              }
+            }
+          },
+          "Somasundara Chettiyar": {
+            "wifeName": "Rambamani",
+            "children": {
+              "Nanda Kumar": {
+                "wifeName": "Geetha",
+                "children": {
+                  "Nagarani": {
+                    "husbandName": "Siddhuraj",
+                    "children": {
+                      "Varshitha": {},
+                      "Sanjay": {}
+                    }
+                  },
+                  "Karthiga Priya": {
+                    "husbandName": "Neela Narayanan",
+                    "children": {
+                      "Miruthula": {}
+                    }
+                  }
+                }
+              },
+              "Ravi": {},
+              "Ganesh": {
+                "wifeName": "Padma",
+                "children": {
+                  "Murali": {
+                    "wifeName": "Pavithra",
+                    "children": {
+                      "Naga Jeevanthika": {}
+                    }
+                  },
+                  "Madhumitha": {}
+                }
+              },
+              "Venkatesh": {
+                "unKnownBoy1": {},
+                "unKnownBoy2": {}
+              }
+            }
+          },
+          "Sakunthala Devi": {
+            "husbandName": "Hari Krishna Das",
+            "childrens": {
+              "Kalavathi": {
+                "husbandName": "Viswanathan",
+                "children": {
+                  "Senthil Kumar": {
+                    "wifeName": "Shanmugapriya",
+                    "children": {
+                      "Naga Swathi": {},
+                      "Raju": {}
+                    }
+                  },
+                  "Naga Latha": {
+                    "husbandName": "Mohan",
+                    "children": {
+                      "Lokeshwar": {
+                        "wifeName": ""
+                      },
+                      "Sanjana Thulasi": {
+                        "husbandName": ""
+                      }
+                    }
+                  }
+                }
+              },
+              "Chandravadhana": {
+                "husbandName": "Sukumar",
+                "children": {
+                  "Rathiprasanna": {},
+                  "Saravana": {}
+                }
+              },
+              "Mohan": {
+                "wifeName": "Naga Latha",
+                "children": {
+                  "Lokeshwar": {
+                    "wifeName": ""
+                  },
+                  "Sanjana Thulasi": {
+                    "husbandName": ""
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Kasi Viswanathan Chettiyar": {
+        "wifeName": "Sundariammal",
+        "children": {
+          "Naga Ratna": {
+            "husbandName": "Manikka Chettiyar",
+            "children": {
+              "Santhanam": {
+                "wifeName": "Naga Jyothi",
+                "children": {}
+              },
+              "Sasikala": {
+                "husbandName": "Shanmugasundaram",
+                "children": {
+                  "Naga Kumaran": {
+                    "wifeName": "Priya",
+                    "children": {
+                      "Naga Jai Shyam": {}
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Jayamani": {
+            "husbandName": "Jaganathan",
+            "children": {
+              "Ragavan": {
+                "wifeName": "Manimegalai",
+                "children": {
+                  "Balaji": {
+                    "wifeName": "",
+                    "children": {
+                      "unknownBoy1": {}
+                    }
+                  },
+                  "Divya": {
+                    "husbandName": "",
+                    "children": {
+                      "unknownGirl1": {}
+                    }
+                  }
+                }
+              },
+              "Bhuvaneswari": {
+                "husbaneName": "",
+                "children": {
+                  "Prithvi": {}
+                }
+              }
+            }
+          },
+          "Siva Subramaniya Chettiyar": {
+            "wifeName": "Sulochana",
+            "children": {
+              "Naga Jyothi": {
+                "husbandName": "Santhanam",
+                "children": {}
+              },
+              "Kasi Viswanathan (BABU)": {
+                "wifeName": "Sri Vijayalakshmi",
+                "children": {
+                  "Naga Sowmya Narayanan": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "Govindaraj Chettiyar": {
+        "wifeName": "Saradhambal",
+        "children": {
+          "Narmadha": {
+            "husbandName": "Obli Chettiyar",
+            "children": {
+              "Obli Sukumar": {},
+              "Naga Jayanthi (USHA)": {
+                "husbandName": "Jayapal",
+                "children": {
+                  "Naga Samumdeswari (HEMA)": {
+                    "husbandName": "Venkatesh obli",
+                    "children": {
+                      "Obu Rakshana": {
+                        "husbandName": {
+                          "Aravind Krishna": {}
+                        },
+                        "Vijaya Vaishali": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Viswanathan": {
+            "wifeName": "Kalavathi",
+            "children": {
+              "Senthil Kumar": {
+                "wifeName": "Shanmugapriya",
+                "children": {
+                  "Naga Swathi": {},
+                  "Raju": {}
+                }
+              },
+              "Naga Latha": {
+                "husbandName": "Mohan",
+                "children": {
+                  "Lokeshwar": {
+                    "wifeName": ""
+                  },
+                  "Sanjana Thulasi": {
+                    "husbandName": ""
+                  }
+                }
+              }
+            }
+          },
+          "Jayapal": {
+            "wifeName": "Naga Jayanthi (USHA)",
+            "children": {
+              "Naga Samundeshwari (HEMA)": {
+                "husbandName": "Venkatesh Obli",
+                "children": {
+                  "Obu Rakshana": {
+                    "husbandName": "Aravind krishna"
+                  },
+                  "Vijaya Vaishali": {}
+                }
+              }
+            }
+          },
+          "Selvaraj": {
+            "wifeName": "prema",
+            "children": {
+              "Naga Suresh": {
+                "wifeName": "",
+                "children": {}
+              },
+              "Subhalakshmi": {
+                "husbandName": "Obli Venkatesh",
+                "children": {
+                  "Vishal": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Ganapathy Chettiyar": {
+      "Nagarathnam": {
+        "husbandName": "VenkataRama Chettiyar",
+        "children": {
+          "Mohan": {
+            "wifeName": "Chandra",
+            "children": {
+              "Suresh": {
+                "wifeName": ""
+              },
+              "Prakash": {
+                "wifeName": ""
+              },
+              "Gomathi": {
+                "husbandName": ""
+              }
+            }
+          },
+          "Indira": {
+            "husbandName": "Viswanathan",
+            "children": {
+              "unKnownGirl1": {},
+              "unKnownGirl2": {},
+              "unKnownBoy1": {}
+            }
+          },
+          "Nirmala": {
+            "husbandName": "Siddha Chettiyar",
+            "children": {
+              "unKnownGirl1": {},
+              "unKnownGirl2": {},
+              "unKnownGirl3": {}
+            }
+          }
+        }
+      },
+      "Chinappa Chettiyar": {
+        "wifeName": "Rajammal",
+        "children": {}
+      },
+      "Loganathan": {
+        "wifeName": "Hamsaveni",
+        "children": {
+          "Naga Jayanthi": {
+            "husbandName": "Subburayan",
+            "children": {
+              "Thangamani": {},
+              "Sangeetha": {},
+              "Kunniya": {}
+            }
+          },
+          "Chandra": {
+            "husbandName": "Mohan",
+            "children": {
+              "Vasu": {},
+              "Divya": {}
+            }
+          },
+          "Raja Mala": {
+            "husbandName": "Rangasamy",
+            "children": {
+              "Badri": {
+                "wifeName": "",
+                "children": {
+                  "unknownBoy1": {},
+                  "unknownGirl1": {}
+                }
+              },
+              "unKnownBoy2": {}
+            }
+          }
+        }
+      },
+      "Kamala": {
+        "husbandName": "",
+        "children": {
+          "Nagamani": {},
+          "Babu": {},
+          "Ramamani": {}
+        }
+      },
+      "Saraojini": {
+        "husbandName": "Chenraya Vaathiyaar",
+        "children": {
+          "Kumutha": {},
+          "unknownGirl1": {},
+          "Arasu": {}
+        }
+      },
+      "Susila": {
+        "husbandName": "",
+        "children": {
+          "Suganti": {
+            "husbandName": "Hari Krishna Raj",
+            "children": {
+              "Naga Kokila Vani": {
+                "husbandName": "Ranga Srinivasan Perumal",
+                "children": {
+                  "Ranga Roshini": {}
+                }
+              },
+              "Jaya Keerthana": {
+                "husbandName": "Venkatesh",
+                "children": {
+                  "Sujay Karthik": {},
+                  "Dheekshitha": {}
+                }
+              }
+            }
+          },
+          "Kala": {
+            "husbandName": "",
+            "children": {
+              "unKnownBoy1": {},
+              "unKnownGirl1": {}
+            }
+          },
+          "Rangasamy": {
+            "wifeName": "Raja Mala",
+            "children": {
+              "Badri": {
+                "wifeName": "",
+                "children": {
+                  "unKnownBoy1": {},
+                  "unknownGirl1": {}
+                }
+              },
+              "unKnownBoy2": {}
+            }
+          }
+        }
+      }
+    },
+    "Kandasamy Chettiyar": {
+      "Naga Ratna": {
+        "husbandName": "Vijayaragavan",
+        "children": {
+          "Raghu": {
+            "wifeName": "Prema",
+            "children": {
+              "unKnownGirl1": {},
+              "unKnownGirl2": {}
+            }
+          },
+          "Gopi": {
+            "wifeName": "Anuradha",
+            "children": {
+              "Vishweswar": {}
+            }
+          }
+        }
+      },
+      "Kanchana": {
+        "husbandName": "EB Venkatesh",
+        "children": {
+          "unknownBoy1": {},
+          "unknownBoy2": {}
+        }
+      },
+      "Santha": {
+        "husbandName": "Subburayan",
+        "children": {
+          "unknownBoy1": {},
+          "unknownBoy2": {},
+          "unknownGirl1": {},
+          "unknownGirl2": {}
+        }
+      },
+      "Harikrishnaraj": {
+        "wifeName": "Suganthi",
+        "children": {
+          "Naga Kokila Vani": {
+            "husbandName": "Ranga Srinivasan Perumal",
+            "children": {
+              "Ranga Roshini": {}
+            }
+          },
+          "Jaya Keerthana": {
+            "husbandName": "Venkatesh",
+            "children": {
+              "Sujay Karthik": {},
+              "Deekshitha": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
